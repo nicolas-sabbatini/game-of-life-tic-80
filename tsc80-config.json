@@ -1,0 +1,19 @@
+{
+  "game": {
+    "author": "Nik Codes",
+    "title": "Game of Life",
+    "desc": "The game of life",
+    "cart": "game-of-life.tic",
+    "backup": true
+  },
+  "tic": {
+    "ticExecutable": "/usr/bin/tic80",
+    "cartsDirectory": "/home/nicolas/.local/share/com.nesbox.tic/TIC-80"
+  },
+  "compression": {
+    "compressedFile": "build/compressed.js",
+    "indentLevel": 1,
+    "compress": false,
+    "mangle": false
+  }
+}
