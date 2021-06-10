@@ -24,5 +24,5 @@ tsc80 run
 - Enjoy.
 
 ### Browser
-- Go to "https://tic80.com/play?cart=1795".
+- Go to ["https://tic80.com/play?cart=1795"](https://tic80.com/play?cart=1795).
 - Enjoy.
